@@ -1,0 +1,14 @@
+M
+4
+2
+//sample M mode input file with two 4x4 rooms
+//room 0
+....
+#...
+.#..
+#...
+//room 1
+.R..
+....
+...S
+#.0#

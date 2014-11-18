@@ -1,0 +1,6 @@
+---End of Day---
+C_a bought 2253 and sold 2282 for a net transfer of $95
+C_b bought 2508 and sold 2162 for a net transfer of $-7310
+C_c bought 2522 and sold 2774 for a net transfer of $4410
+C_d bought 2233 and sold 2523 for a net transfer of $8770
+C_e bought 2862 and sold 2637 for a net transfer of $-5965

@@ -1,0 +1,10 @@
+TL
+0 PlanetExpress SELL AMD $120 #32
+1 BadWolfCorp BUY AMD $150 #20
+2 BluthCorp SELL AMD $100 #50
+3 KrustyKrab BUY AMD $200 #10
+4 PlanetExpress BUY AMD $210 #50
+5 BadWolfCorp BUY AMD $205 #70
+6 BluthCorp BUY AMD $210 #30
+7 KrustyKrab BUY AMD $205 #40
+8 PlanetExpress SELL AMD $155 #25

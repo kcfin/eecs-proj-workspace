@@ -1,0 +1,7 @@
+TL
+0 Justin BUY KTP $150 #10
+0 Abbey BUY KTP $40 #5
+0 Kate BUY KTP $15 #100
+0 Greg BUY KTP $45 #8
+1 Dom BUY KTP $32 #6
+3 Wenbo SELL KTP $200 #20

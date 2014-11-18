@@ -1,0 +1,14 @@
+M
+1
+5
+//creates 5 1x1 rooms
+//room 0
+S
+//room 1
+R
+//room 2
+.
+//room 3
+.
+//room 4
+.

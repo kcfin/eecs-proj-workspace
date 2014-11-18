@@ -1,0 +1,19 @@
+M
+2
+5
+//sample creates 5 2x2 rooms
+//room 0
+S.
+.1
+//room 1
+.2
+.0
+//room 2
+3.
+3.
+//room 3
+..
+.4
+//room 4
+..
+.R

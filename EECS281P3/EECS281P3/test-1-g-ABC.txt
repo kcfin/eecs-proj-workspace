@@ -1,0 +1,7 @@
+TL
+0 Kate SELL ABC $120 #52
+0 Owen BUY ABC $14 #58
+1 Kate BUY ABC $20 #7
+2 Meow BUY ABC $100 #5
+3 Blah BUY ABC $30 #6
+3 Meh BUY ABC $50 #4

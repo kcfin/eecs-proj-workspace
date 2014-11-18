@@ -1,0 +1,6 @@
+TL
+4               Kate    SELL    KTYK    $150            #20
+5               Findlay BUY     KTYK    $150            #20
+5               Thing   SELL    KTYK    $100            #5
+999999999914    Kate    SELL    KTYK    $99929484234    #37492794258
+999999999914    Zing    BUY    KTYK    $99929484234    #37492494258

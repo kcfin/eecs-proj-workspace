@@ -1,0 +1,15 @@
+M
+1
+5
+// sample creates 5 1x1 rooms
+// no path found
+//room 0
+S
+//room 1
+.
+//room 3
+R
+//room 4
+5
+//room 5
+#

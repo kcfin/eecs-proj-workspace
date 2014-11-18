@@ -1,0 +1,17 @@
+M
+5
+2
+// sample creating 2 5x5 rooms
+// uses two portals to get to R
+//room 0
+..#..
+..#..
+.S#..
+1.#..
+..#.R
+//room 1
+.....
+.....
+.....
+.....
+....0

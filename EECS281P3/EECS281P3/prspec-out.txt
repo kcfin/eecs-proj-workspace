@@ -1,0 +1,29 @@
+C_a purchased 7 shares of E_B from C_a for $15/share
+Median match price of E_B at time 1 is $15
+C_a purchased 15 shares of E_B from C_a for $15/share
+C_a purchased 7 shares of E_B from C_b for $25/share
+C_b purchased 10 shares of E_C from C_b for $25/share
+Median match price of E_B at time 2 is $15
+Median match price of E_C at time 2 is $25
+C_b purchased 19 shares of E_B from C_b for $25/share
+Median match price of E_B at time 3 is $20
+Median match price of E_C at time 3 is $25
+Median match price of E_B at time 4 is $20
+Median match price of E_C at time 4 is $25
+Median match price of E_B at time 5 is $20
+Median match price of E_C at time 5 is $25
+C_b purchased 2 shares of E_C from C_b for $40/share
+C_b purchased 1 shares of E_C from C_a for $40/share
+C_b purchased 10 shares of E_B from C_b for $30/share
+C_a purchased 20 shares of E_B from C_b for $20/share
+Median match price of E_B at time 6 is $22
+Median match price of E_C at time 6 is $40
+Median match price of E_B at time 7 is $22
+Median match price of E_C at time 7 is $40
+---End of Day---
+Commission Earnings: $34
+Total Amount of Money Transferred: $2050
+Number of Completed Trades: 9
+Number of Shares Traded: 91
+C_a bought 49 and sold 23 for a net transfer of $-535
+C_b bought 42 and sold 68 for a net transfer of $535
