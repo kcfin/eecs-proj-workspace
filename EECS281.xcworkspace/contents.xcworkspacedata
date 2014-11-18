@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <FileRef
+      location = "group:EECS281P1/EECS281P1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EECS281P2/EECS281P2.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EECS281P3/EECS281P3.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EECS281P4/EECS281P4.xcodeproj">
+   </FileRef>
 </Workspace>
