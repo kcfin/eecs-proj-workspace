@@ -7,8 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8AD2B2F91A1BA3C400D98AAD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8AD2B2F81A1BA3C400D98AAD /* main.cpp */; };
-		8AD2B2FB1A1BA3C400D98AAD /* EECS281P4.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8AD2B2FA1A1BA3C400D98AAD /* EECS281P4.1 */; };
+		8A74CD0F1A1CEADA0054744D /* project4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8A74CD0D1A1CEADA0054744D /* project4.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -18,16 +17,15 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				8AD2B2FB1A1BA3C400D98AAD /* EECS281P4.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8A74CD0D1A1CEADA0054744D /* project4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = project4.cpp; sourceTree = SOURCE_ROOT; };
+		8A74CD0E1A1CEADA0054744D /* project4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = project4.h; sourceTree = SOURCE_ROOT; };
 		8AD2B2F51A1BA3C400D98AAD /* EECS281P4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EECS281P4; sourceTree = BUILT_PRODUCTS_DIR; };
-		8AD2B2F81A1BA3C400D98AAD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		8AD2B2FA1A1BA3C400D98AAD /* EECS281P4.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = EECS281P4.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +58,8 @@
 		8AD2B2F71A1BA3C400D98AAD /* EECS281P4 */ = {
 			isa = PBXGroup;
 			children = (
-				8AD2B2F81A1BA3C400D98AAD /* main.cpp */,
-				8AD2B2FA1A1BA3C400D98AAD /* EECS281P4.1 */,
+				8A74CD0D1A1CEADA0054744D /* project4.cpp */,
+				8A74CD0E1A1CEADA0054744D /* project4.h */,
 			);
 			path = EECS281P4;
 			sourceTree = "<group>";
@@ -117,7 +115,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AD2B2F91A1BA3C400D98AAD /* main.cpp in Sources */,
+				8A74CD0F1A1CEADA0054744D /* project4.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -227,6 +225,7 @@
 				8AD2B3001A1BA3C400D98AAD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>776C93EB-0571-416F-8358-DD346F2FDA5E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EECS281</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31DB69C3-E16B-43AD-81AF-185EE6D4E27D</key>
+		<string>ssh://github.com:kcfin/eecs-proj-workspace.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EECS281.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31DB69C3-E16B-43AD-81AF-185EE6D4E27D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com:kcfin/eecs-proj-workspace.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31DB69C3-E16B-43AD-81AF-185EE6D4E27D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31DB69C3-E16B-43AD-81AF-185EE6D4E27D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EECS281workspace</string>
+		</dict>
+	</array>
+</dict>
+</plist>
